@@ -4,3 +4,5 @@ if var1>20 :
     print ("aa")
 else   :
     print ("bb")
+
+print ("22")
