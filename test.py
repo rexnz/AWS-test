@@ -4,9 +4,3 @@ if var1>20 :
     print ("aa")
 else   :
     print ("bb")
-
-print ("223")
-
-# line added
-
-# line 456
